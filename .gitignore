@@ -1,0 +1,25 @@
+# IntelliJ
+.idea/
+.iml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Gradle
+.gradle/
+/build/
+*/build/
+gradle*
+
+# Python
+*.py[cod]
+__pycache__/
+*.egg-info/
+
+beakerx-dist/dist
+
+# Eclipse
+.metadata/
+.settings/
+.recommenders/
+RemoteSystemsTempFiles/
